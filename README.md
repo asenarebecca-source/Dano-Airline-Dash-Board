@@ -31,6 +31,7 @@ On the left side are interactive slicers that allow users to filter the dashboar
 -	Satisfaction Level 
 These filters make it easy for decision-makers to explore different customer segments without changing the underlying data.
 
+You can interact with the live visualization [HERE](https://1drv.ms/x/c/6b3763bd9d685e70/IQDcE4YhecUFRaT0op0BlsrLAe6_2Rw-O4cXCjd2YbvZLA4)
 
 ## Key Performance Indicators
 
