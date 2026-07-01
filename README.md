@@ -1,9 +1,9 @@
 # Dano-Airline-Dash-Board
-![](https://github.com/asenarebecca-source/Dano-Airline-Dash-Board/blob/main/Screenshot%202026-06-28%20211507.png)
+![](https://github.com/asenarebecca-source/Dano-Airline-Dash-Board/blob/main/1687703011811.png)
 
-## Hello everyone.
+## Introduction 
 
-My name is Rebecca Asena, and today I'll be presenting one of my data analytics projects—the Dano Airline Passengers Satisfaction Dashboard.
+Hello everyone, my name is Rebecca Asena, and today I'll be presenting one of my data analytics projects—the Dano Airline Passengers Satisfaction Dashboard.
 The objective of this project was to analyze passenger satisfaction using airline service data, identify factors that influence customer experience, and present the insights in an interactive dashboard that supports data-driven decision-making.
 
 For this project, I used Microsoft Excel, specifically Power Query for data cleaning, Pivot Tables, Pivot Charts, Slicers, and dashboard design to create an interactive report.
@@ -21,6 +21,12 @@ Some of the cleaning tasks included:
 6. Creating calculated fields where necessary 
 
 Cleaning the data helped improve consistency and made the dataset suitable for analysis.
+
+
+## Visualization and Analysis:
+![](https://github.com/asenarebecca-source/Dano-Airline-Dash-Board/blob/main/Screenshot%202026-06-28%20211507.png)
+
+
 
 ## Dashboard Overview
 
