@@ -136,19 +136,15 @@ Finally, management should continue using interactive dashboards like this to mo
 
 ## Conclusion
 
-This project demonstrates how data can be transformed into meaningful business insights through effective cleaning, analysis, visualization, and storytelling.
-It also strengthened my skills in:
+The dashboard highlights the airline's strengths while identifying areas for improvement, particularly in digital services and first-time customer experience. 
 
-- Data Cleaning with Power Query
-- Data Analysis
-- Dashboard Development
-- Data Visualization
-- Business Intelligence
-- Data Storytelling 
+By acting on these insights, Dano Airline can enhance customer satisfaction, strengthen loyalty, and improve operational performance.
 
-Thank you for watching my presentation. 
+Tools Used: Microsoft Excel, Power BI, Power Query, Pivot Tables, Pivot Charts, Slicers, Dashboard Design
 
-I look forward to connecting with other professionals in the data analytics community and welcome your feedback.
+Skills Demonstrated: Data Cleaning, Data Analysis, Data Visualization, and Dashboard Development.
+
+
 
 
 ### Connect with me on socials:
